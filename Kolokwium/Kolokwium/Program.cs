@@ -107,7 +107,7 @@ namespace Kolokwium
 
         static void Main(string[] args)
         {
-            Zadanie1(200,"swieta")
+            Zadanie1(200, "swieta");
         }
     }
 }
